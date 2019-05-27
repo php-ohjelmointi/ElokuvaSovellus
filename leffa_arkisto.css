@@ -1,0 +1,68 @@
+body {
+	margin: 0px;
+	background-color: rgb(244, 238, 234);
+	font-family: verdana, sans-serif;
+} 
+
+article, header, footer, nav, section {
+	display: block;
+}
+
+aside {
+	width: 160px;
+	float: left;
+	height: 100%;
+	padding-top: 4px;
+	padding-bottom: 15px;
+	padding-left: 5px;
+}
+
+nav {
+	font-size: 12px;
+	background-image: url(kuvat/navi.gif);
+	text-align: center;
+	padding: 8px;
+	letter-spacing: 0.2em;
+}
+
+header {
+	font-size: 26px;
+	font-weight: bold;
+	color: white;
+	background-image: url(kuvat/tervetuloa.jpg);
+	background-size: cover;
+	height: 60px;
+	text-align: center;
+	letter-spacing: 0.2em;
+}
+
+article {
+	font-size: 0.9em;
+	height: 615px;
+	vertical-align: top;
+	padding-left: 10px;
+	overflow-y: scroll;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+h3 {
+	font-size: 14px;
+}
+
+p {
+	margin-top: 0px;
+}
+
+footer {
+	font-size: 12px;
+	background-image: url(kuvat/navi.gif);
+	text-align: right;
+	padding: 3px 30px 3px 0px;
+	letter-spacing: 0.2em;
+}
+script {
+    
+}
